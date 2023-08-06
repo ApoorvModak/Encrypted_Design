@@ -1,0 +1,35 @@
+[
+    {
+    "rice" : 231,
+    "maize" : 34,
+    "wheat" : 123,
+    "barley" : 12,
+    "jowar" : 233
+
+    },
+
+    {
+        "rice" : 231,
+        "maize" : 34,
+        "wheat" : 123
+
+    },
+
+    {
+        "rice" : 231,
+        "maize" : 34,
+        "wheat" : 123,
+        "barley" : 12,
+        "potato" : 2
+
+    },
+
+    {
+        "rice" : 231,
+        "maize" : 34,
+        "jowar" : 123,
+        "barley" : 12
+
+    }
+
+]

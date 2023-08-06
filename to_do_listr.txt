@@ -1,0 +1,10 @@
+1) write AES encrypted user id , newly server id in separate file - storing inverted index
+2) input :- random user_id, i (from the for loop) => gets a s_id
+3) check s_id == stored s_id
+
+for(int i =0; i < 3; i++){
+    s_id_to_check = prn(encrypted_user_id, i);
+    if(s_id_to_check == preserved_s_id){
+        return i;
+    }
+}
